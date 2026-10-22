@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 移除
+
+- `qtacademy/2026-10/` 三篇日志移交实训基地第二大脑：移入 `quanttide-journal-of-training-base` 的 `default/2026-10/`，本仓不再保留。
+
 ### 新增
 
 - 初始化仓库。
